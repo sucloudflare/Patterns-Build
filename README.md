@@ -11,16 +11,23 @@
     </pre>
     
  <h2>Descrição</h2>
- <p>O projeto consiste em uma classe <code>Carro</code> que possui os atributos <code>marca</code>, <code>modelo</code>, <code>ano</code> e <code>cor</code>. Utilizamos o padrão de projeto Builder para facilitar a construção de objetos <code>Carro</code>.</p>
+ <p>O projeto consiste em uma classe
+<code>Carro</code> que possui os atributos
+<code>marca</code>,
+<code>modelo</code>,
+<code>ano</code> e 
+<code>cor</code>.
+     
+Utilizamos o padrão de projeto Builder para facilitar a construção de objetos <code>Carro</code>.</p>
     
  <h2>Requisitos</h2>  <ul>
- <li>Java 8 ou superior</li>
-  <li>Maven (opcional, caso queira usar o arquivo <code>pom.xml</code> para gerenciar dependências)</li>
+<li>Java 8 ou superior</li>
+<li>Maven (opcional, caso queira usar o arquivo <code>pom.xml</code> para gerenciar dependências)</li>
 </ul>
     
-  <h2>Instalação e Execução</h2>
- <h3>Passos para Compilar e Executar o Projeto</h3>
- <ol>
+<h2>Instalação e Execução</h2>
+<h3>Passos para Compilar e Executar o Projeto</h3>
+<ol>
  <li>Clone o repositório:
  <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git
             cd seu-repositorio/Carro</code></pre>
