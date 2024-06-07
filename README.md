@@ -134,7 +134,8 @@
                 return new Carro(this);
             }
         }
-    }</code></pre>
+    }
+</code></pre>
     
 <h2>Licença</h2>
 <p>Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo 
