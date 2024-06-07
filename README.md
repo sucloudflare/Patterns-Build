@@ -24,22 +24,22 @@
  <h3>Passos para Compilar e Executar o Projeto</h3>
    <ol>
    <li>Clone o repositório:
-    <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio/Carro</code></pre>
+    <pre><code>git clone https://github.com/sucloudflare/Patterns-Build.git
+cd Patterns-Build/Carro</code></pre>
     </li>
     <li>Compile os arquivos Java:
-     <pre><code>javac -d bin src/com/projeto/*.java</code></pre>
+     <pre><code>javac -d bin src/com/Carro/*.java</code></pre>
      </li>
      <li>Execute o programa:
-     <pre><code>java -cp bin com.projeto.Main</code></pre>
+     <pre><code>java -cp bin com.Carro.Main</code></pre>
         </li>
      </ol>
         
   <h3>Usando Maven</h3>
     <ol>
    <li>Clone o repositório:
-    <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio/Carro</code></pre>
+    <pre><code>git clone https://github.com/sucloudflare/Patterns-Build.git
+cd Patterns-Build/Carro</code></pre>
     </li>
     <li>Compile e execute usando Maven:
      <pre><code>mvn compile
