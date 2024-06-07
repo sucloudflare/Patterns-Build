@@ -141,9 +141,12 @@
 <code>LICENSE</code> para mais detalhes.</p>
     
 <h2>Contribuindo</h2>
-<ol><li>Faça um fork do projeto</li>
-<li>Crie uma nova branch (<code>git checkout -b feature/nova-feature</code>)</li>
-<li>Commit suas mudanças (<code>git commit -m 'Adiciona nova feature'</code>)</li> 
-<li>Faça um push para a branch (<code>git push origin feature/nova-feature</code>)</li>
-<li>Abra um Pull Request</li>
+
+
+<ol>
+    <li>Faça um fork do projeto</li>
+    <li>Crie uma nova branch (<code>git checkout -b feature/nova-feature</code>)</li>
+    <li>Commit suas mudanças (<code>git commit -m 'Adiciona nova feature'</code>)</li> 
+    <li>Faça um push para a branch (<code>git push origin feature/nova-feature</code>)</li>
+    <li>Abra um Pull Request</li>
 </ol>
