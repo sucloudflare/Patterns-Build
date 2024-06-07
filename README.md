@@ -64,8 +64,11 @@
 <pre><code>Carro [marca=Toyota, modelo=Corolla, ano=2020, cor=Preto]</code></pre>
     
 <h2>Estrutura do Código</h2>
-<p>A classe <code>Carro</code> contém os atributos do carro e uma classe estática interna <code>CarroBuilder</code> que implementa o padrão Builder.</p>
-<pre><code>package com.projeto;
+
+<p>A classe 
+<code>Carro</code> contém os atributos do carro e uma classe estática interna <code>CarroBuilder</code> que implementa o padrão Builder.</p>
+<pre>
+<code>package com.projeto;
 
     public class Carro {
         private String marca;
@@ -134,10 +137,13 @@
     }</code></pre>
     
 <h2>Licença</h2>
-<p>Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
+<p>Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo 
+<code>LICENSE</code> para mais detalhes.</p>
     
 <h2>Contribuindo</h2>
 <ol><li>Faça um fork do projeto</li>
 <li>Crie uma nova branch (<code>git checkout -b feature/nova-feature</code>)</li>
-<li>Commit suas mudanças (<code>git commit -m 'Adiciona nova feature'</code>)</li> <li>Faça um push para a branch (<code>git push origin feature/nova-feature</code>)</li>
-<li>Abra um Pull Request</li> </ol>
+<li>Commit suas mudanças (<code>git commit -m 'Adiciona nova feature'</code>)</li> 
+<li>Faça um push para a branch (<code>git push origin feature/nova-feature</code>)</li>
+<li>Abra um Pull Request</li>
+</ol>
